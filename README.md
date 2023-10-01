@@ -29,11 +29,16 @@ We express our gratitude to Er. Kamal Lekhak sir for his invaluable guidance and
 We welcome contributions, recommendations, and suggestions to improve our digital clock simulation. If you have any ideas or enhancements, please feel free to create a pull request. Your input is highly valuable to us, and we appreciate your efforts in making our project even better.
 
 **How to Contribute**
-Fork the repository
-Create your feature branch: git checkout -b feature/new-feature
-Commit your changes: git commit -m 'Add a new feature
-Push to the branch: git push origin feature/new-feature
-Create a pull request
+-Fork the repository
+
+-Create your feature branch: git checkout -b feature/new-feature
+
+-Commit your changes: git commit -m 'Add a new feature
+
+-Push to the branch: git push origin feature/new-feature
+
+-Create a pull request
+
 We appreciate your interest in our project and look forward to your contributions!
 
 Thank you for visiting our repository and exploring our digital clock simulation. We hope you find it informative and engaging.
