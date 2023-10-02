@@ -50,5 +50,5 @@ Thank you for visiting our repository and exploring our digital clock simulation
 
 Best regards,
 
-Team-AMD 
+Team-AMD ,FWU,SOE
 
