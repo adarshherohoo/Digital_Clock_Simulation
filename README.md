@@ -1,13 +1,13 @@
-# Digital_Clock_Simulation in MULTISIM AND PROTEUS 
-**Digital Clock Simulation and Presentation**
+# ⏲️Digital_Clock_Simulation in MULTISIM AND PROTEUS 
+**Digital Clock Simulation and Presentation**👍
 
 Welcome to the Digital Clock Simulation and Presentation repository! This project was created as part of the Digital Logic subject under the guidance of Er. Kamal Lekhak sir. We are excited to share our digital clock simulation with you, showcasing our understanding of digital logic concepts.
 
-**About the Project** : 
+**About the Project📖** : 
 
 This repository contains a digital clock simulation implemented in Multisim and Proteus(Simulation Softwares). The simulation accurately represents the functionality of a digital clock, demonstrating our knowledge and skills in digital logic design.
 
-**Teammates**: 
+**Teammates🫶**: 
 
 We would like to extend our heartfelt thanks to all our teammates and friends  who contributed to this project and provided simulation from different softwares. Your dedication and hard work have made this simulation possible. Together, we have created a project that showcases our collective knowledge and expertise in digital logic.
 
@@ -21,19 +21,19 @@ We would like to extend our heartfelt thanks to all our teammates and friends  w
 
 -Dinesh Pd. Joshi
 
-**Acknowledgments** : 
+**Acknowledgments📖** : 
 
 We express our gratitude to Er. Kamal Lekhak sir for his invaluable guidance and support throughout this project. His expertise in digital logic has been instrumental in shaping our understanding and skills.
 
-**REFRENCES**
+**REFRENCES😲**
 -ChatGpt and Youtube  for understanding logic
 -Digital Fundamantles by Thomas L Floyd
 
-**Contributions** : 
+**Contributions🫲** : 
 
 We welcome contributions, recommendations, and suggestions to improve our digital clock simulation. If you have any ideas or enhancements, please feel free to create a pull request. Your input is highly valuable to us, and we appreciate your efforts in making our project even better.
 
-**How to Contribute**
+**How to Contribute🤝**
 -Fork the repository
 
 -Create your feature branch: git checkout -b feature/new-feature
